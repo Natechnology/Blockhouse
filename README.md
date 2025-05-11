@@ -1,7 +1,7 @@
 # README.md
 
 ## Overview
-This repository provides **`backtest.py`**, a standalone Python script to back-test and tune a Smart Order Router (SOR) using the static cost model from Cont & Kukanov (“Optimal order placement in limit order markets”). It benchmarks against three baselines—best-ask, TWAP, VWAP—and saves a cumulative-cost plot (`results.png`).
+This repository provides **`backtest.py`**, a standalone Python script to back-test and tune a Smart Order Router (SOR) using the static cost model from Cont & Kukanov (“Optimal order placement in limit order markets”). It benchmarks against three baselines (best-ask, TWAP, VWAP) and saves a cumulative-cost plot (`results.png`).
 
 ---
 
