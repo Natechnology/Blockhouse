@@ -27,7 +27,7 @@ This repository provides **`backtest.py`**, a standalone Python script to back-t
 ## Usage
 ```bash
 python backtest.py /path/to/l1_day.csv
-
+```
 ---
 
 ## Improving Fill Realism
