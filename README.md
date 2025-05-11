@@ -33,6 +33,5 @@ python backtest.py /path/to/l1_day.csv
 ## Improving Fill Realism
 
 To capture market microstructure effects, consider:
-
-Slippage Model: Introduce a concave price-impact function that raises execution cost when consuming multiple price levels.
-Queue Position: Simulate order book queues to estimate fill probability for limit orders, based on historical book dynamics.
+  - **Slippage Model**: Introduce a concave price-impact function that raises execution cost when consuming multiple price levels.
+  - **Queue Position**: Simulate order book queues to estimate fill probability for limit orders, based on historical book dynamics.
